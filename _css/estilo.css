@@ -1,0 +1,9 @@
+.bg-azul1 { background-color: #02194c; }
+.bg-azul2 { background-color: #06317c; }
+
+#capa { 
+    height: 80vh;
+    background: url(../_img/capa.jpg);
+    background-size: cover;
+    background-position: center;
+}
